@@ -54,6 +54,4 @@ Measure-Command {
             $stream.Close()
         }
     }
-    
-    Write-Output "PLC log file generated."
 }
