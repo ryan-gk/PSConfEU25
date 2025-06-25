@@ -1,7 +1,7 @@
 # 🚀 PSConfEU25 - Code Speed Challenge! 🚀
 
 ## 💨 Speed-up-the-Code Competition
-Welcome to the most exhilarating code optimization challenge at PSCONFEU 2025!
+The most exhilarating code optimization challenge at PSCONFEU 2025!
 When code goes VROOM! 🏎️💨
 
 ## 🏆 My Epic Submission
